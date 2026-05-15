@@ -1,6 +1,6 @@
 {
   "name": "@getsoren/types-treege",
-  "version": "0.3.14",
+  "version": "0.3.15",
   "author": "Mickaël Austoni",
   "description": "TypeScript type definitions for Treege",
   "types": "./dist/index.d.ts",
