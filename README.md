@@ -1,25 +1,25 @@
-# @types/treege
+# @getsoren/types-treege
 
 TypeScript type definitions for Treege - a library for handling tree data structures.
 
 ## Installation
 
 ```bash
-  npm install --save-dev @tracktor/types-treege 
+  npm install --save-dev @getsoren/types-treege
 ```
 
 or with other package manager:
 
 ```bash
-  yarn add --dev @tracktor/types-treege
-  bun add --dev @types/treege
-  pnpm add --dev @tracktor/types-treege
+  yarn add --dev @getsoren/types-treege
+  bun add --dev @getsoren/types-treege
+  pnpm add --dev @getsoren/types-treege
 ```
 
 ## Usage
 
 ```typescript
-import { TreeNode } from '@tracktor/types-treege';
+import { TreeNode } from '@getsoren/types-treege';
 
 const myTree: TreeNode = {
   uuid: "root",
